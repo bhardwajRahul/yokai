@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.4.0](https://github.com/bhardwajRahul/yokai/compare/fxgrpcserver-v1.3.0...fxgrpcserver/v1.4.0) (2025-03-06)
+
+
+### Features
+
+* **fxgrpcserver:** Added support for listener address ([#204](https://github.com/bhardwajRahul/yokai/issues/204)) ([4bf8968](https://github.com/bhardwajRahul/yokai/commit/4bf89684121dae4e24bbc63a4199102da378b1ce))
+* **fxgrpcserver:** Added test helpers for creating gRPC client connections ([#286](https://github.com/bhardwajRahul/yokai/issues/286)) ([f42b559](https://github.com/bhardwajRahul/yokai/commit/f42b559a49baad3f1fb3e2c20e43ead44de1bff3))
+* **fxgrpcserver:** Provided module ([#91](https://github.com/bhardwajRahul/yokai/issues/91)) ([5c84ecb](https://github.com/bhardwajRahul/yokai/commit/5c84ecbc5970dda3f702af7ed15622296fa4ea22))
+* **fxgrpcserver:** Updated dependencies ([#165](https://github.com/bhardwajRahul/yokai/issues/165)) ([3ae4861](https://github.com/bhardwajRahul/yokai/commit/3ae48616a5cfc9d2da245a5c70100dcce341184c))
+* **log:** Updated default logger and added possibility to dump logs test buffer ([#92](https://github.com/bhardwajRahul/yokai/issues/92)) ([6e0c995](https://github.com/bhardwajRahul/yokai/commit/6e0c9957095d3bc8d3ca77b610e472d4a0f238f0))
+
 ## [1.3.0](https://github.com/ankorstore/yokai/compare/fxgrpcserver/v1.2.0...fxgrpcserver/v1.3.0) (2024-10-01)
 
 
