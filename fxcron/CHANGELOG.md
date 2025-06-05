@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/bhardwajRahul/yokai/compare/fxcron-v1.1.0...fxcron/v1.2.0) (2025-06-05)
+
+
+### Features
+
+* **fxcron:** Provided module ([#81](https://github.com/bhardwajRahul/yokai/issues/81)) ([feedab5](https://github.com/bhardwajRahul/yokai/commit/feedab505fbed308adbf0767e17c6661938873ba))
+* **fxcron:** Updated dependencies ([#159](https://github.com/bhardwajRahul/yokai/issues/159)) ([95874f2](https://github.com/bhardwajRahul/yokai/commit/95874f21a181b375e6867ce957d048b9b9e023f9))
+
 ## [1.1.0](https://github.com/ankorstore/yokai/compare/fxcron/v1.0.0...fxcron/v1.1.0) (2024-03-15)
 
 
