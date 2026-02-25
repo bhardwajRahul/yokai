@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.4.0](https://github.com/bhardwajRahul/yokai/compare/worker-v1.3.0...worker/v1.4.0) (2026-02-25)
+
+
+### Features
+
+* **worker:** Added middleware support for worker registration ([#380](https://github.com/bhardwajRahul/yokai/issues/380)) ([eff6532](https://github.com/bhardwajRahul/yokai/commit/eff65324c93f40ae74575a1be36ad630964c2a1b))
+* **worker:** Added worker pool health check probe ([#267](https://github.com/bhardwajRahul/yokai/issues/267)) ([0e7d36a](https://github.com/bhardwajRahul/yokai/commit/0e7d36a46ee5bd52b4f5917772beb4a85d7e6c6a))
+* **worker:** Provided module ([#52](https://github.com/bhardwajRahul/yokai/issues/52)) ([2f621b9](https://github.com/bhardwajRahul/yokai/commit/2f621b92fdb7aa069ca2571b1a7b14612b902a19))
+* **worker:** Updated dependencies ([#139](https://github.com/bhardwajRahul/yokai/issues/139)) ([ff11840](https://github.com/bhardwajRahul/yokai/commit/ff1184014819a794191744b661b5ef4729f0f0a7))
+
 ## [1.3.0](https://github.com/ankorstore/yokai/compare/worker/v1.2.0...worker/v1.3.0) (2025-12-12)
 
 
