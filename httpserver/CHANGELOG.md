@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.7.0](https://github.com/bhardwajRahul/yokai/compare/httpserver-v1.6.0...httpserver/v1.7.0) (2026-02-25)
+
+
+### Features
+
+* **httpserver:** Disabled automatic http server tracer provider spans annotations ([#180](https://github.com/bhardwajRahul/yokai/issues/180)) ([f37ed6b](https://github.com/bhardwajRahul/yokai/commit/f37ed6b25c362505eb97506631c444e8bb5e03b8))
+* **httpserver:** Provided module ([#13](https://github.com/bhardwajRahul/yokai/issues/13)) ([8dd2275](https://github.com/bhardwajRahul/yokai/commit/8dd227563d96336faa20c8f7a81605714cb572c4))
+* **httpserver:** Removed automatic panic recovery and enhanced error handler error stack printing ([#210](https://github.com/bhardwajRahul/yokai/issues/210)) ([116b4fc](https://github.com/bhardwajRahul/yokai/commit/116b4fc3c76bd5460cb1a4c5105d80f56989d1d7))
+* **httpserver:** Updated dependencies ([#141](https://github.com/bhardwajRahul/yokai/issues/141)) ([f35482e](https://github.com/bhardwajRahul/yokai/commit/f35482e72b4818c6d401a9b68c0c9921e3ff943f))
+* **httpserver:** Updated error handler ([#312](https://github.com/bhardwajRahul/yokai/issues/312)) ([dbc4b44](https://github.com/bhardwajRahul/yokai/commit/dbc4b44e986ae50b3065505e95f7346e46b2a283))
+* **httpserver:** Updated http server metrics middleware configurations ([#117](https://github.com/bhardwajRahul/yokai/issues/117)) ([0981f93](https://github.com/bhardwajRahul/yokai/commit/0981f93f599f840d46344338baaf87321132a35d))
+* **httpserver:** Updated metrics base name ([#171](https://github.com/bhardwajRahul/yokai/issues/171)) ([8df5130](https://github.com/bhardwajRahul/yokai/commit/8df5130af80d8edd4dd935adc8d55efa16557e79))
+
+
+### Bug Fixes
+
+* **httpserver:** Fixed semconv compatibility ([#182](https://github.com/bhardwajRahul/yokai/issues/182)) ([35f3952](https://github.com/bhardwajRahul/yokai/commit/35f3952e662755e5a379b92b9d6c382a0df8fdbf))
+
 ## [1.6.0](https://github.com/ankorstore/yokai/compare/httpserver/v1.5.0...httpserver/v1.6.0) (2025-02-12)
 
 
