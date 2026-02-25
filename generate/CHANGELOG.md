@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.4.0](https://github.com/bhardwajRahul/yokai/compare/generate-v1.3.0...generate/v1.4.0) (2026-02-25)
+
+
+### Features
+
+* **generate:** Added UUID V7 generator ([#260](https://github.com/bhardwajRahul/yokai/issues/260)) ([a3a7ebe](https://github.com/bhardwajRahul/yokai/commit/a3a7ebe01476c7b8294be3422cd71a99ceb34cd5))
+* **generate:** Added UUIDv6 generation ([#301](https://github.com/bhardwajRahul/yokai/issues/301)) ([d78a0ed](https://github.com/bhardwajRahul/yokai/commit/d78a0ed27c8932296bf9b944b915e74574551e2e))
+* **generate:** Provided module ([#5](https://github.com/bhardwajRahul/yokai/issues/5)) ([cfd113c](https://github.com/bhardwajRahul/yokai/commit/cfd113c4238107ad68e1ecfa6ed600567841b5bf))
+* **generate:** Updated dependencies ([#129](https://github.com/bhardwajRahul/yokai/issues/129)) ([16ac181](https://github.com/bhardwajRahul/yokai/commit/16ac18129caca70f5384b0f84e11e0cfe7d9af86))
+
 ## [1.3.0](https://github.com/ankorstore/yokai/compare/generate/v1.2.0...generate/v1.3.0) (2024-11-18)
 
 
