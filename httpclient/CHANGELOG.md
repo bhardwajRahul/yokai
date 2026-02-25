@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.6.0](https://github.com/bhardwajRahul/yokai/compare/httpclient-v1.5.0...httpclient/v1.6.0) (2026-02-25)
+
+
+### Features
+
+* **httpclient:** Added metrics transport ([#108](https://github.com/bhardwajRahul/yokai/issues/108)) ([8b809c5](https://github.com/bhardwajRahul/yokai/commit/8b809c5a89c848e8862e81fc95f4bb7ba08d7964))
+* **httpclient:** Added request path normalization mechanism in metrics transport for better metrics cardinality ([#113](https://github.com/bhardwajRahul/yokai/issues/113)) ([3c8811c](https://github.com/bhardwajRahul/yokai/commit/3c8811c878c0d446d4ca307254ab49d0b9cb40b2))
+* **httpclient:** Added test server helper ([#323](https://github.com/bhardwajRahul/yokai/issues/323)) ([b2dd342](https://github.com/bhardwajRahul/yokai/commit/b2dd342ecef06b24a290a9723bd839e5032f08cc))
+* **httpclient:** Provided module ([#11](https://github.com/bhardwajRahul/yokai/issues/11)) ([8de35c6](https://github.com/bhardwajRahul/yokai/commit/8de35c690182bb373895cbd2cfb67af9b52db962))
+* **httpclient:** Updated dependencies ([#133](https://github.com/bhardwajRahul/yokai/issues/133)) ([b7d5665](https://github.com/bhardwajRahul/yokai/commit/b7d5665bf38aea0823f6739930d5fbc352b50903))
+* **httpclient:** Updated metrics base name ([#167](https://github.com/bhardwajRahul/yokai/issues/167)) ([0b91487](https://github.com/bhardwajRahul/yokai/commit/0b91487c8e8f5a94a3878433fa0fba6380fa02fe))
+
+
+### Bug Fixes
+
+* **httpclient:** Fixed logger transport config ([#143](https://github.com/bhardwajRahul/yokai/issues/143)) ([a4438a4](https://github.com/bhardwajRahul/yokai/commit/a4438a4cbd9d252e3c15195c141524c7ef816590))
+
 ## [1.5.0](https://github.com/ankorstore/yokai/compare/httpclient/v1.4.0...httpclient/v1.5.0) (2025-03-06)
 
 
