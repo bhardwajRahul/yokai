@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.3.0](https://github.com/bhardwajRahul/yokai/compare/sql-v1.2.0...sql/v1.3.0) (2026-02-25)
+
+
+### Features
+
+* **sql:** Added helper to fetch multiple operations from a list of strings ([#220](https://github.com/bhardwajRahul/yokai/issues/220)) ([931bb5f](https://github.com/bhardwajRahul/yokai/commit/931bb5f34ceec557a99fc5c2964cc34fe3e1b062))
+* **sql:** Added RegisterNamed ([#381](https://github.com/bhardwajRahul/yokai/issues/381)) ([5210f4a](https://github.com/bhardwajRahul/yokai/commit/5210f4afdd682f8bcfc0ef1e2486f6ee568b762d))
+* **sql:** Provided module ([#217](https://github.com/bhardwajRahul/yokai/issues/217)) ([3c643e7](https://github.com/bhardwajRahul/yokai/commit/3c643e75d7bd3e53cf4b03a24523020981936108))
+
 ## [1.2.0](https://github.com/ankorstore/yokai/compare/sql/v1.1.0...sql/v1.2.0) (2025-12-10)
 
 
