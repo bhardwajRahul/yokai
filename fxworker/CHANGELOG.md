@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.3.0](https://github.com/bhardwajRahul/yokai/compare/fxworker-v1.2.0...fxworker/v1.3.0) (2026-02-25)
+
+
+### Features
+
+* **fxworker:** Add support for worker middlewares ([#386](https://github.com/bhardwajRahul/yokai/issues/386)) ([9b49db7](https://github.com/bhardwajRahul/yokai/commit/9b49db7d2bbcf67579b3eba0cf6d09d7c036e663))
+* **fxworker:** Provided module ([#54](https://github.com/bhardwajRahul/yokai/issues/54)) ([71d2e5c](https://github.com/bhardwajRahul/yokai/commit/71d2e5c601f4037e96a16eb346a26302cb250edc))
+* **fxworker:** Updated dependencies ([#163](https://github.com/bhardwajRahul/yokai/issues/163)) ([77392de](https://github.com/bhardwajRahul/yokai/commit/77392de3605cef128c2b37e91ca7813376d7335a))
+
+
+### Bug Fixes
+
+* **fxworker:** Fix resolution collision by using full import path in type IDs ([#365](https://github.com/bhardwajRahul/yokai/issues/365)) ([bb92938](https://github.com/bhardwajRahul/yokai/commit/bb92938031f7cbab1e04ec6bf844d870c204bcac))
+
 ## [1.2.0](https://github.com/ankorstore/yokai/compare/fxworker/v1.1.1...fxworker/v1.2.0) (2025-12-15)
 
 
