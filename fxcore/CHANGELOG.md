@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.16.0](https://github.com/bhardwajRahul/yokai/compare/fxcore-v1.15.0...fxcore/v1.16.0) (2026-02-25)
+
+
+### Features
+
+* **fxcore:** Add HTML content escaping toggle for task results ([#395](https://github.com/bhardwajRahul/yokai/issues/395)) ([10fc835](https://github.com/bhardwajRahul/yokai/commit/10fc835fa4cd884421bfe34e314710b4618ebcdd))
+* **fxcore:** Add task grouping support to dashboard sidebar ([#397](https://github.com/bhardwajRahul/yokai/issues/397)) ([492f04b](https://github.com/bhardwajRahul/yokai/commit/492f04bfdd4d8529a7db7c2a0e8826e1a3722127))
+* **fxcore:** Added app description ([#274](https://github.com/bhardwajRahul/yokai/issues/274)) ([3d4fd98](https://github.com/bhardwajRahul/yokai/commit/3d4fd984fa919a564e574f71d1f8c9d9b8afeacb))
+* **fxcore:** Added core dashboard options ([#60](https://github.com/bhardwajRahul/yokai/issues/60)) ([f11c871](https://github.com/bhardwajRahul/yokai/commit/f11c871e8e9ec2eb0c1187ee328c9abbb9369a49))
+* **fxcore:** Added core server exposition config ([#329](https://github.com/bhardwajRahul/yokai/issues/329)) ([f5b741b](https://github.com/bhardwajRahul/yokai/commit/f5b741bbadf7d3097df7b0d1879c4306a37f893f))
+* **fxcore:** Added core tasks system ([#326](https://github.com/bhardwajRahul/yokai/issues/326)) ([ae58a8f](https://github.com/bhardwajRahul/yokai/commit/ae58a8fe30a2b196101bd5a428ab464b528ae7b3))
+* **fxcore:** Added possibility to provide extra information ([#56](https://github.com/bhardwajRahul/yokai/issues/56)) ([e355505](https://github.com/bhardwajRahul/yokai/commit/e355505f182677995795e648001312f0467f51dd))
+* **fxcore:** Added support for listener address ([#206](https://github.com/bhardwajRahul/yokai/issues/206)) ([9e092a9](https://github.com/bhardwajRahul/yokai/commit/9e092a9206a0077f6c961058d3fec539b3c2c4ac))
+* **fxcore:** Make tasks page configurable ([#393](https://github.com/bhardwajRahul/yokai/issues/393)) ([63635df](https://github.com/bhardwajRahul/yokai/commit/63635df4709f0eff85f9f31306f1ab27232a961d))
+* **fxcore:** Provided module ([#45](https://github.com/bhardwajRahul/yokai/issues/45)) ([7d64e8f](https://github.com/bhardwajRahul/yokai/commit/7d64e8f16f2f0655110433aff1089752799bbd45))
+* **fxcore:** Updated core dashboard docs link ([#50](https://github.com/bhardwajRahul/yokai/issues/50)) ([4133640](https://github.com/bhardwajRahul/yokai/commit/4133640305961b6a3322960723e6827fb68db0ec))
+* **fxcore:** Updated core http server metrics configurations ([#121](https://github.com/bhardwajRahul/yokai/issues/121)) ([e7fe4ce](https://github.com/bhardwajRahul/yokai/commit/e7fe4ce468ee64188fe235633f85a54475095f43))
+* **fxcore:** Updated dependencies ([#175](https://github.com/bhardwajRahul/yokai/issues/175)) ([62e8ad2](https://github.com/bhardwajRahul/yokai/commit/62e8ad2e7e7d780fb2b357a9194b4c493beeb1ac))
+* **fxcore:** Updated dependencies ([#186](https://github.com/bhardwajRahul/yokai/issues/186)) ([e9a4b87](https://github.com/bhardwajRahul/yokai/commit/e9a4b875069aa12cf6c05323bcbf1123cac863a7))
+* **fxcore:** Updated httpserver module for dashboard handling ([#317](https://github.com/bhardwajRahul/yokai/issues/317)) ([3013c65](https://github.com/bhardwajRahul/yokai/commit/3013c65574e37aa27975fc58291bd6d23bce7487))
+* **fxcore:** Updated panic recovery to prevent observability middlewares interruption ([#214](https://github.com/bhardwajRahul/yokai/issues/214)) ([06f3ba8](https://github.com/bhardwajRahul/yokai/commit/06f3ba847dd7efae99208e8703770dc12e8b25b3))
+
 ## [1.15.0](https://github.com/ankorstore/yokai/compare/fxcore/v1.14.0...fxcore/v1.15.0) (2026-02-24)
 
 
