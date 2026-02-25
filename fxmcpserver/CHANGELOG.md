@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.8.0](https://github.com/bhardwajRahul/yokai/compare/fxmcpserver-v1.7.0...fxmcpserver/v1.8.0) (2026-02-25)
+
+
+### Features
+
+* **fxmcpserver:** Added autoconfiguration of the SSE test server endpoints ([#352](https://github.com/bhardwajRahul/yokai/issues/352)) ([bd74d10](https://github.com/bhardwajRahul/yokai/commit/bd74d10adc96ba1d16c7b02be99e689c5b588ef5))
+* **fxmcpserver:** Added MCP SSE server context hooks ([#347](https://github.com/bhardwajRahul/yokai/issues/347)) ([17dabfe](https://github.com/bhardwajRahul/yokai/commit/17dabfebe23951215ead3a2efdb502eafe2b7751))
+* **fxmcpserver:** Added tracing remote propagation ([#350](https://github.com/bhardwajRahul/yokai/issues/350)) ([dfc463e](https://github.com/bhardwajRahul/yokai/commit/dfc463ebd7f607326f4bb63f464d4f14cec03ced))
+* **fxmcpserver:** Added type and structured tools support ([#378](https://github.com/bhardwajRahul/yokai/issues/378)) ([2d0e44d](https://github.com/bhardwajRahul/yokai/commit/2d0e44d928308c6b31793300c1e8bbedbb03b496))
+* **fxmcpserver:** Provided module ([#335](https://github.com/bhardwajRahul/yokai/issues/335)) ([233a5f5](https://github.com/bhardwajRahul/yokai/commit/233a5f56b602cbb460b18d5134bc3c948018b95c))
+* **fxmcpserver:** Provided streamable HTTP transport ([#357](https://github.com/bhardwajRahul/yokai/issues/357)) ([b9b01f0](https://github.com/bhardwajRahul/yokai/commit/b9b01f043e67c14d0bd787e62fa02cf604d298a1))
+* **fxmcpserver:** Updated context handling ([#340](https://github.com/bhardwajRahul/yokai/issues/340)) ([66811ff](https://github.com/bhardwajRahul/yokai/commit/66811ff2c6464a2d5d30210943e638ab96f35098))
+* **fxmcpserver:** Updated SSE test client ([#342](https://github.com/bhardwajRahul/yokai/issues/342)) ([119bd6c](https://github.com/bhardwajRahul/yokai/commit/119bd6c15e16c776a441f6c0856e80040c4610b3))
+
+
+### Bug Fixes
+
+* **fxmcpserver:** Fixed MCP SSE server tracing to accept remote context ([#354](https://github.com/bhardwajRahul/yokai/issues/354)) ([d9e879a](https://github.com/bhardwajRahul/yokai/commit/d9e879a62d5da19a607c3f9617a4232a0fc13080))
+
 ## [1.7.0](https://github.com/ankorstore/yokai/compare/fxmcpserver/v1.6.0...fxmcpserver/v1.7.0) (2025-10-07)
 
 
