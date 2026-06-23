@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.5.0](https://github.com/bhardwajRahul/yokai/compare/fxgenerate-v1.4.0...fxgenerate/v1.5.0) (2026-06-23)
+
+
+### Features
+
+* bump Layer-2 modules to Go 1.26 ([#408](https://github.com/bhardwajRahul/yokai/issues/408)) ([e8237a0](https://github.com/bhardwajRahul/yokai/commit/e8237a06c1f1ab631dfaf49bd36918f4ce3d98b0))
+* **fxgenerate:** Added UUID V7 generator ([#262](https://github.com/bhardwajRahul/yokai/issues/262)) ([beee22b](https://github.com/bhardwajRahul/yokai/commit/beee22b165946dacb139c290e21cc12c9b76a524))
+* **fxgenerate:** Added UUIDv6 generation ([#303](https://github.com/bhardwajRahul/yokai/issues/303)) ([ddbe283](https://github.com/bhardwajRahul/yokai/commit/ddbe2833a88a81d48b5f0d0e1ce527108c070f99))
+* **fxgenerate:** Provided module ([#24](https://github.com/bhardwajRahul/yokai/issues/24)) ([c76696d](https://github.com/bhardwajRahul/yokai/commit/c76696d51d395926b543eddd12591ce122cff341))
+* **fxgenerate:** Updated dependencies ([#151](https://github.com/bhardwajRahul/yokai/issues/151)) ([75233be](https://github.com/bhardwajRahul/yokai/commit/75233be78d58fbdf0434399a3e34a25b653cec2f))
+
 ## [1.4.0](https://github.com/ankorstore/yokai/compare/fxgenerate/v1.3.0...fxgenerate/v1.4.0) (2026-06-19)
 
 
