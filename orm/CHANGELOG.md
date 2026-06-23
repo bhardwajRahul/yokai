@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.3.0](https://github.com/bhardwajRahul/yokai/compare/orm-v1.2.0...orm/v1.3.0) (2026-06-23)
+
+
+### Features
+
+* bump Layer-2 modules to Go 1.26 ([#408](https://github.com/bhardwajRahul/yokai/issues/408)) ([e8237a0](https://github.com/bhardwajRahul/yokai/commit/e8237a06c1f1ab631dfaf49bd36918f4ce3d98b0))
+* **orm:** Provided module ([#20](https://github.com/bhardwajRahul/yokai/issues/20)) ([98c089d](https://github.com/bhardwajRahul/yokai/commit/98c089db4fb8c10db2bbc6a2f24b2869b7f848da))
+* **orm:** Updated dependencies ([#135](https://github.com/bhardwajRahul/yokai/issues/135)) ([5b29f6e](https://github.com/bhardwajRahul/yokai/commit/5b29f6efe3d438df18b951e3356d565a9837e920))
+
 ## [1.2.0](https://github.com/ankorstore/yokai/compare/orm/v1.1.0...orm/v1.2.0) (2026-06-19)
 
 
