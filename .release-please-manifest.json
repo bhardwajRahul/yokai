@@ -5,7 +5,7 @@
   "trace": "1.5.0",
   "healthcheck": "1.2.0",
   "httpclient": "1.6.0",
-  "httpserver": "1.7.0",
+  "httpserver": "1.8.0",
   "orm": "1.2.0",
   "fxconfig": "1.4.0",
   "fxgenerate": "1.4.0",
