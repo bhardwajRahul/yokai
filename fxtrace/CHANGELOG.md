@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.3.0](https://github.com/bhardwajRahul/yokai/compare/fxtrace-v1.3.0...fxtrace/v1.3.0) (2026-06-23)
+
+
+### Features
+
+* **fxtrace:** Provided module ([#28](https://github.com/bhardwajRahul/yokai/issues/28)) ([6757f8e](https://github.com/bhardwajRahul/yokai/commit/6757f8e909d6399580a7cf3c4764532bedf8afd4))
+* **fxtrace:** Updated dependencies ([#149](https://github.com/bhardwajRahul/yokai/issues/149)) ([cbafdb7](https://github.com/bhardwajRahul/yokai/commit/cbafdb7d5ddef34ce63f680eafe28d61ed4c3df3))
+* **fxtrace:** Updated module name ([#30](https://github.com/bhardwajRahul/yokai/issues/30)) ([e440bdd](https://github.com/bhardwajRahul/yokai/commit/e440bdd815bf7642b1694e9d96b6d0d061d85efe))
+* trigger Layer-1 and Layer-3 module releases ([#425](https://github.com/bhardwajRahul/yokai/issues/425)) ([440f917](https://github.com/bhardwajRahul/yokai/commit/440f917f90ab066b1be66b25cf9990a0e6912c2f))
+
+
+### Bug Fixes
+
+* **fxtrace:** Treat tracer provider shutdown as best-effort ([#400](https://github.com/bhardwajRahul/yokai/issues/400)) ([7e8179c](https://github.com/bhardwajRahul/yokai/commit/7e8179cf7557abd61a154479a8ace62d37601ed2))
+* **fxtrace:** Treat tracer provider shutdown as best-effort in OnStop ([623fdb8](https://github.com/bhardwajRahul/yokai/commit/623fdb8578c7d46b1f294e6d25d7ea3d37a36303))
+
+
+### Documentation
+
+* **fxtrace:** document Go 1.26 minimum requirement ([35a7c28](https://github.com/bhardwajRahul/yokai/commit/35a7c28bf932158e24e1c1ad8f28a2ca5e80f83c))
+
 ## [1.3.0](https://github.com/ankorstore/yokai/compare/fxtrace/v1.2.1...fxtrace/v1.3.0) (2026-06-19)
 
 
