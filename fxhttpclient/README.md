@@ -142,6 +142,12 @@ path label for better cardinality.
 For the given example, if the request path is `/foo/1/bar?page=2`, the metric path label will be masked
 with `/foo/{id}/bar?page={page}`.
 
+When `request_path=true` and no mask matches, the path is sanitized as a fail-safe (rather than emitted
+raw) to prevent metric cardinality explosions: the query string is dropped and identifier-like path
+segments (UUIDs, all-digit, long hex, or segments containing a run of 3+ digits) are replaced with `{id}`.
+For example `/orders/abc-123?page=2` becomes `/orders/{id}`. Explicit masks always take priority;
+add one when you need a specific label for a given route.
+
 Notes:
 
 - the http client logging will be based on the [fxlog](https://github.com/ankorstore/yokai/tree/main/fxlog) module
