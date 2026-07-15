@@ -110,7 +110,7 @@ func TestMetricsTransportRoundTripWithBaseAndConfig(t *testing.T) {
 			# HELP foo_bar_http_client_requests_total Number of performed HTTP requests
 			# TYPE foo_bar_http_client_requests_total counter
     		foo_bar_http_client_requests_total{host="%s",method="GET",path="",status="204"} 1
-    		foo_bar_http_client_requests_total{host="%s",method="GET",path="/foo/4/baz",status="204"} 1
+    		foo_bar_http_client_requests_total{host="%s",method="GET",path="/foo/{id}/baz",status="204"} 1
     		foo_bar_http_client_requests_total{host="%s",method="GET",path="/foo/{fooId}/bar?page={pageId}",status="204"} 3
 		`,
 		server.URL,

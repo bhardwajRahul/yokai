@@ -223,6 +223,11 @@ map[string]string{
 
 Then if the request path is `/foo/1/bar?page=2`, the metric path label will be masked with `/foo/{fooId}/bar?page={pageId}`.
 
+When `NormalizeRequestPath` is `true` and no mask matches, the path is sanitized via `normalization.SanitizePath`
+as a fail-safe (instead of being emitted raw), to avoid metric cardinality explosions: the query string is dropped
+and identifier-like segments (UUIDs, all-digit, long hex, or segments with a run of 3+ digits) become `{id}`.
+For example `/orders/abc-123?page=2` becomes `/orders/{id}`.
+
 ### Testing
 
 This module provides a [httpclienttest.NewTestHTTPServer()](httpclienttest/server.go) helper for testing your clients against a test server, that allows you:
