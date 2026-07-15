@@ -57,7 +57,7 @@ jobs:
       - name: Install Go
         uses: actions/setup-go@v6
         with:
-          go-version: ${{ inputs.go_version }}
+          go-version: ${{ inputs.go_version || '1.26' }}
       - name: Install dependencies for module ${{ matrix.module }}
         working-directory: ${{ matrix.module }}
         run: go mod download
