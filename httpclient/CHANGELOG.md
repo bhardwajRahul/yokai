@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.7.0](https://github.com/ankorstore/yokai/compare/httpclient/v1.6.0...httpclient/v1.7.0) (2026-07-16)
+
+
+### Features
+
+* **httpclient:** fail-safe request path normalization ([dc3904a](https://github.com/ankorstore/yokai/commit/dc3904ad7fa5b4a56d4f0b537e1d573d87e258a6))
+* **httpclient:** fail-safe request path normalization ([#445](https://github.com/ankorstore/yokai/issues/445)) ([d241d14](https://github.com/ankorstore/yokai/commit/d241d147723350e600f80235c24e3d5f4a4fa058))
+
 ## [1.6.0](https://github.com/ankorstore/yokai/compare/httpclient/v1.5.0...httpclient/v1.6.0) (2026-06-19)
 
 
