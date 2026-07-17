@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.6.0](https://github.com/bhardwajRahul/yokai/compare/fxsql-v1.5.0...fxsql/v1.6.0) (2026-07-17)
+
+
+### Features
+
+* bump Layer-4 modules to Go 1.26 ([#420](https://github.com/bhardwajRahul/yokai/issues/420)) ([4fb94ad](https://github.com/bhardwajRahul/yokai/commit/4fb94ad3082d3c4f4c03a6ce78c2b69f5b49cc5d))
+* **fxsql:** Added auxiliary databases support ([#384](https://github.com/bhardwajRahul/yokai/issues/384)) ([21dbafc](https://github.com/bhardwajRahul/yokai/commit/21dbafcd0135946ca96c292548731a9bda369a5b))
+* **fxsql:** Added RunFxSQLSeedsAndShutdown ([#264](https://github.com/bhardwajRahul/yokai/issues/264)) ([49ec0fd](https://github.com/bhardwajRahul/yokai/commit/49ec0fd12dfbb01eb67d9e7343b7789967c13d40))
+* **fxsql:** Prevent database connection close on tests ([#250](https://github.com/bhardwajRahul/yokai/issues/250)) ([1618d8b](https://github.com/bhardwajRahul/yokai/commit/1618d8b623f6debf77ec07fcad875c08ea0bfe20))
+* **fxsql:** Provided migration logger ([#227](https://github.com/bhardwajRahul/yokai/issues/227)) ([49db4df](https://github.com/bhardwajRahul/yokai/commit/49db4df13d51348bfe5ce7ca53e93fa3d0ba1839))
+* **fxsql:** Provided module ([#222](https://github.com/bhardwajRahul/yokai/issues/222)) ([d497caa](https://github.com/bhardwajRahul/yokai/commit/d497caacc53d2c6a86d3d2332c3d5d0ddcc9bbe4))
+
 ## [1.5.0](https://github.com/ankorstore/yokai/compare/fxsql/v1.4.0...fxsql/v1.5.0) (2026-06-19)
 
 
