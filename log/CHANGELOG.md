@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.3.0](https://github.com/bhardwajRahul/yokai/compare/log-v1.3.0...log/v1.3.0) (2026-07-17)
+
+
+### Features
+
+* **log:** Updated default logger and added possibility to dump logs test buffer ([#92](https://github.com/bhardwajRahul/yokai/issues/92)) ([6e0c995](https://github.com/bhardwajRahul/yokai/commit/6e0c9957095d3bc8d3ca77b610e472d4a0f238f0))
+* **log:** Updated dependencies ([#125](https://github.com/bhardwajRahul/yokai/issues/125)) ([a87e3ec](https://github.com/bhardwajRahul/yokai/commit/a87e3ec976220c01613dd25bc18c0ba5b1d207da))
+* trigger Layer-1 and Layer-3 module releases ([#425](https://github.com/bhardwajRahul/yokai/issues/425)) ([440f917](https://github.com/bhardwajRahul/yokai/commit/440f917f90ab066b1be66b25cf9990a0e6912c2f))
+
+
+### Miscellaneous Chores
+
+* **log:** drop deprecated tenv and rename logrlint to loggercheck ([7448522](https://github.com/bhardwajRahul/yokai/commit/744852281ca63a4b9115d4ead46d0ef65b428947))
+
 ## [1.3.0](https://github.com/ankorstore/yokai/compare/log/v1.2.0...log/v1.3.0) (2026-06-19)
 
 
