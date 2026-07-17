@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.5.0](https://github.com/bhardwajRahul/yokai/compare/trace-v1.5.0...trace/v1.5.0) (2026-07-17)
+
+
+### Features
+
+* **trace:** Added CtxTracer function and updated dependencies ([#123](https://github.com/bhardwajRahul/yokai/issues/123)) ([cbd8986](https://github.com/bhardwajRahul/yokai/commit/cbd8986349fcc6cecabcf4a41d5196208c594e96))
+* **trace:** Added possibility to dump spans from test processor ([#96](https://github.com/bhardwajRahul/yokai/issues/96)) ([a610572](https://github.com/bhardwajRahul/yokai/commit/a6105722d71c7a5ace9dbde0b33062e44f8f3ada))
+* **trace:** Disabled otlp-grpc block mode ([#321](https://github.com/bhardwajRahul/yokai/issues/321)) ([e84e2ce](https://github.com/bhardwajRahul/yokai/commit/e84e2ce249d0b317f4f615ad3bddad4c3cd33102))
+* **trace:** Updated otlp-grpc connection constructor to have default values ([#188](https://github.com/bhardwajRahul/yokai/issues/188)) ([c964798](https://github.com/bhardwajRahul/yokai/commit/c964798aca705b6746774f3880de3b77299de307))
+* trigger Layer-1 and Layer-3 module releases ([#425](https://github.com/bhardwajRahul/yokai/issues/425)) ([440f917](https://github.com/bhardwajRahul/yokai/commit/440f917f90ab066b1be66b25cf9990a0e6912c2f))
+
+
+### Miscellaneous Chores
+
+* **trace:** drop deprecated tenv and rename logrlint to loggercheck ([c428a96](https://github.com/bhardwajRahul/yokai/commit/c428a96b0f20f60c8a1ac98419846582d4fc1bd4))
+
 ## [1.5.0](https://github.com/ankorstore/yokai/compare/trace/v1.4.0...trace/v1.5.0) (2026-06-19)
 
 
