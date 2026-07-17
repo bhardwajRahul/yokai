@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.8.0](https://github.com/bhardwajRahul/yokai/compare/httpclient-v1.7.0...httpclient/v1.8.0) (2026-07-17)
+
+
+### Features
+
+* bump Layer-2 modules to Go 1.26 ([#408](https://github.com/bhardwajRahul/yokai/issues/408)) ([e8237a0](https://github.com/bhardwajRahul/yokai/commit/e8237a06c1f1ab631dfaf49bd36918f4ce3d98b0))
+* **httpclient:** Added metrics transport ([#108](https://github.com/bhardwajRahul/yokai/issues/108)) ([8b809c5](https://github.com/bhardwajRahul/yokai/commit/8b809c5a89c848e8862e81fc95f4bb7ba08d7964))
+* **httpclient:** Added request path normalization mechanism in metrics transport for better metrics cardinality ([#113](https://github.com/bhardwajRahul/yokai/issues/113)) ([3c8811c](https://github.com/bhardwajRahul/yokai/commit/3c8811c878c0d446d4ca307254ab49d0b9cb40b2))
+* **httpclient:** Added test server helper ([#323](https://github.com/bhardwajRahul/yokai/issues/323)) ([b2dd342](https://github.com/bhardwajRahul/yokai/commit/b2dd342ecef06b24a290a9723bd839e5032f08cc))
+* **httpclient:** fail-safe request path normalization ([dc3904a](https://github.com/bhardwajRahul/yokai/commit/dc3904ad7fa5b4a56d4f0b537e1d573d87e258a6))
+* **httpclient:** fail-safe request path normalization ([#445](https://github.com/bhardwajRahul/yokai/issues/445)) ([d241d14](https://github.com/bhardwajRahul/yokai/commit/d241d147723350e600f80235c24e3d5f4a4fa058))
+* **httpclient:** Updated dependencies ([#133](https://github.com/bhardwajRahul/yokai/issues/133)) ([b7d5665](https://github.com/bhardwajRahul/yokai/commit/b7d5665bf38aea0823f6739930d5fbc352b50903))
+* **httpclient:** Updated metrics base name ([#167](https://github.com/bhardwajRahul/yokai/issues/167)) ([0b91487](https://github.com/bhardwajRahul/yokai/commit/0b91487c8e8f5a94a3878433fa0fba6380fa02fe))
+
+
+### Bug Fixes
+
+* **httpclient:** Fixed logger transport config ([#143](https://github.com/bhardwajRahul/yokai/issues/143)) ([a4438a4](https://github.com/bhardwajRahul/yokai/commit/a4438a4cbd9d252e3c15195c141524c7ef816590))
+
 ## [1.7.0](https://github.com/ankorstore/yokai/compare/httpclient/v1.6.0...httpclient/v1.7.0) (2026-07-16)
 
 
