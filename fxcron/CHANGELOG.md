@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.3.0](https://github.com/bhardwajRahul/yokai/compare/fxcron-v1.2.0...fxcron/v1.3.0) (2026-07-17)
+
+
+### Features
+
+* bump Layer-5 modules to Go 1.26 ([#424](https://github.com/bhardwajRahul/yokai/issues/424)) ([afd2846](https://github.com/bhardwajRahul/yokai/commit/afd28463443b826fac17a256d434712735cbae01))
+* **fxcron:** Provided module ([#81](https://github.com/bhardwajRahul/yokai/issues/81)) ([feedab5](https://github.com/bhardwajRahul/yokai/commit/feedab505fbed308adbf0767e17c6661938873ba))
+* **fxcron:** Updated dependencies ([#159](https://github.com/bhardwajRahul/yokai/issues/159)) ([95874f2](https://github.com/bhardwajRahul/yokai/commit/95874f21a181b375e6867ce957d048b9b9e023f9))
+
+
+### Bug Fixes
+
+* **fxcron:** Fix resolution collision by using full import path in type IDs ([#366](https://github.com/bhardwajRahul/yokai/issues/366)) ([8db4440](https://github.com/bhardwajRahul/yokai/commit/8db44400dada7536833cea6251f8e39e21d05d85))
+
 ## [1.2.0](https://github.com/ankorstore/yokai/compare/fxcron/v1.1.1...fxcron/v1.2.0) (2026-06-19)
 
 
