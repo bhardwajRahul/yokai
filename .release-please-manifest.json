@@ -11,7 +11,7 @@
   "fxgenerate": "1.4.0",
   "fxlog": "1.2.0",
   "fxtrace": "1.3.0",
-  "fxmetrics": "1.3.0",
+  "fxmetrics": "1.4.0",
   "fxhealthcheck": "1.2.0",
   "fxorm": "1.3.0",
   "fxhttpclient": "1.6.0",
