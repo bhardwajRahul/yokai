@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.6.0](https://github.com/bhardwajRahul/yokai/compare/config-v1.6.0...config/v1.6.0) (2026-07-17)
+
+
+### Features
+
+* **config:** Added app description config key ([#270](https://github.com/bhardwajRahul/yokai/issues/270)) ([e540857](https://github.com/bhardwajRahul/yokai/commit/e54085755430b171277c038719611a667b284c85))
+* **config:** Added config default path ([#280](https://github.com/bhardwajRahul/yokai/issues/280)) ([2de70d2](https://github.com/bhardwajRahul/yokai/commit/2de70d2aaed23f9bf867e4806c2c84fdf1b77736))
+* **config:** Auto-detect ko.build OCI images and set config paths ([#100](https://github.com/bhardwajRahul/yokai/issues/100)) ([c214cad](https://github.com/bhardwajRahul/yokai/commit/c214cad80af6e0fa43aa3aa16af3fb159c76270f))
+* **config:** Updated dependencies ([#131](https://github.com/bhardwajRahul/yokai/issues/131)) ([f20e8b6](https://github.com/bhardwajRahul/yokai/commit/f20e8b617639607c9bc0f22cf9857505bbbd7384))
+* trigger Layer-1 and Layer-3 module releases ([#425](https://github.com/bhardwajRahul/yokai/issues/425)) ([440f917](https://github.com/bhardwajRahul/yokai/commit/440f917f90ab066b1be66b25cf9990a0e6912c2f))
+
+
+### Miscellaneous Chores
+
+* **config:** drop deprecated tenv linter ([470ccb1](https://github.com/bhardwajRahul/yokai/commit/470ccb1d62490630e566f10fce5605b9b65aac3c))
+
 ## [1.6.0](https://github.com/ankorstore/yokai/compare/config/v1.5.0...config/v1.6.0) (2026-06-19)
 
 
